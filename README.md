@@ -14,6 +14,8 @@ But compression alone is insufficient. Any compressed elastic solid will rebound
 
 The reasoning leaves almost no alternative path: attraction → stretching → compression → SU(3) → Higgs locking. Each step is the only natural inference from the previous one.
 
+This argument does not negate any experimentally verified results of QCD, electroweak theory, or general relativity. It provides a geometric interpretation of these facts, not a replacement theory.
+
 latest version :Zou, Z. K. (2026). Multiplicative-Entropy-Driven Invariant-Topology Two-Layer Chiral-Space (MITC):A Conceptual Model Bridging General Relativity, Quantum Field Theory, and Quantum Thermodynamics. Zenodo. https://doi.org/10.5281/zenodo.20370578
 
 Previous versions: Zou, Z. K. (2025). Multiplicative Entropy Encodes Time-Causality; Gauge Mediates Mass-Gravity; Frequency Mirrors Metric-Geometry:A Two-Layer Fiber Bundle Chiral Space Model with Topology-Preserving Configuration. Zenodo. https://doi.org/10.5281/zenodo.15278220
